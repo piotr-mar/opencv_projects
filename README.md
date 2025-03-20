@@ -1,2 +1,2 @@
-# opencv_lessons
-Repository contain lessosn of opencv from basic to ML
+# opencv_projects
+Repository contain projects of opencv from basic to ML
